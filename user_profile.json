@@ -1,0 +1,30 @@
+[
+    {
+        
+        "name":"SEEDx",
+        "icon":"https://s2.coinmarketcap.com/static/img/coins/64x64/24184.png",
+        "symbol":"SEEDx"
+      
+    },
+    {
+        
+        "name":"BNB",
+        "icon":"https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+        "symbol":"Bnb"
+       
+    },
+    {
+        
+        "name":"USD",
+        "icon":"https://s2.coinmarketcap.com/static/cloud/img/fiat-flags/USD.svg",
+        "symbol":"USD"
+        
+    },
+    {
+        
+        "name":"USD Coin" ,
+        "icon":"https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+        "symbol":"USDC"
+        
+    }
+]
