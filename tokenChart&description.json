@@ -42,14 +42,14 @@
                           DeFi protocols may only trade with the liquidity
                           available inside their local pools. Pairing of new
                           tokens in DEXs is mandatory to give liquidity against
-                          their token, however with SEEDx pairing, there is no
+                          their token, however with Forsage pairing, there is no
                           requirement for liquidity against token. 
                           In addition to the Scratching Reward and staking, there are other
                           methods to acquire SEEDx tokens. There will be more
                           more additions soon!.
                          
                           Quickly exchanging tokens inside 0x liquidity Fusion
-                          pools is made possible using SEEDx's swap function,
+                          pools is made possible using Forsage swap function,
                           while more complex trading options, like as limit
                           orders and Market Order, are made available via the
                           DEX Interface. They enhance the user's shopping
