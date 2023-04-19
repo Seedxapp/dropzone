@@ -4,7 +4,13 @@
         "name":"SEEDx",
         "icon":"https://s2.coinmarketcap.com/static/img/coins/64x64/24184.png",
         "symbol":"SEEDx",
-        "decimal":18
+        "decimal":18,
+        "mintable":"yes",
+        "burnable":"yes",
+        "audit":"yes",
+        "whitePaper":"https://docs.seedx.app/",
+        "website":"https://seedx.app"
+        
     },
    {
         "token_address":"0x86E15f159f816DcE98479fE76c2600fB5705A387",
@@ -12,5 +18,10 @@
         "icon":"https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png",
         "symbol":"ForSage",
         "decimal":18
+        "mintable":"yes",
+        "burnable":"yes",
+        "audit":"yes",
+        "whitePaper":"https://support.forsage.io/article/",
+        "website":"https://forsage.io/"
     }
 ]
