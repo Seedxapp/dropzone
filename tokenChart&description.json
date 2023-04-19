@@ -1,0 +1,61 @@
+[
+    {
+        "token_address":"0x1062a7f1C20C1100B16E4Ea831373f620902Ef5A",      
+        "name":"SEEDx",
+        "Airdrop":"20%",
+        "Presale":"10%",
+        "PrivateSale":"15%",
+        "DevTeam":"5%",
+        "Marketing":"30%",
+        "ReserveFund":"20%",    
+       "description":    "Without a centralized order book, other AMM DEXs and
+                          DeFi protocols may only trade with the liquidity
+                          available inside their local pools. Pairing of new
+                          tokens in DEXs is mandatory to give liquidity against
+                          their token, however with SEEDx pairing, there is no
+                          requirement for liquidity against token. 
+                          In addition to the Scratching Reward and staking, there are other
+                          methods to acquire SEEDx tokens. There will be more
+                          more additions soon!.
+                         
+                          Quickly exchanging tokens inside 0x liquidity Fusion
+                          pools is made possible using SEEDx's swap function,
+                          while more complex trading options, like as limit
+                          orders and Market Order, are made available via the
+                          DEX Interface. They enhance the user's shopping
+                          experience. In addition to the Scratching Reward and
+                          staking, there are other methods to acquire SEEDx
+                          tokens. There will be more more additions soon!"
+    },
+   
+       
+    {
+        "token_address":"0x86E15f159f816DcE98479fE76c2600fB5705A387",
+        "name":"ForSage",
+        "Airdrop":"30%",
+        "Presale":"10%",
+        "PrivateSale":"15%",
+        "DevTeam":"15%",
+        "Marketing":"20%",
+        "ReserveFund":"10%",  
+        "description":    "Without a centralized order book, other AMM DEXs and
+                          DeFi protocols may only trade with the liquidity
+                          available inside their local pools. Pairing of new
+                          tokens in DEXs is mandatory to give liquidity against
+                          their token, however with SEEDx pairing, there is no
+                          requirement for liquidity against token. 
+                          In addition to the Scratching Reward and staking, there are other
+                          methods to acquire SEEDx tokens. There will be more
+                          more additions soon!.
+                         
+                          Quickly exchanging tokens inside 0x liquidity Fusion
+                          pools is made possible using SEEDx's swap function,
+                          while more complex trading options, like as limit
+                          orders and Market Order, are made available via the
+                          DEX Interface. They enhance the user's shopping
+                          experience. In addition to the Scratching Reward and
+                          staking, there are other methods to acquire SEEDx
+                          tokens. There will be more more additions soon!"
+    },
+      
+]
