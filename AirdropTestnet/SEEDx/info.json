@@ -1,0 +1,14 @@
+[
+    {
+        "token_address":"0x1062a7f1C20C1100B16E4Ea831373f620902Ef5A",
+        "name":"SEEDx",     
+        "symbol":"SEEDx",
+        "decimal":18,
+        "mintable":"yes",
+        "burnable":"yes",
+        "audit":"yes",
+        "whitePaper":"https://docs.seedx.app/",
+        "website":"https://seedx.app"
+        
+    }
+]
