@@ -1,8 +1,7 @@
 [
 {
         "token_address":"0x86E15f159f816DcE98479fE76c2600fB5705A387",
-        "name":"ForSage",
-        "icon":"https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png",
+        "name":"ForSage",    
         "symbol":"ForSage",
         "decimal":18,
         "mintable":"yes",
