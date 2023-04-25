@@ -1,0 +1,13 @@
+[
+    {
+            "token_address":"0x86E15f159f816DcE98479fE76c2600fB5705A387",
+            "name":"ForSage",    
+            "symbol":"ForSage",
+            "decimal":18,
+            "mintable":"yes",
+            "burnable":"no",
+            "audit":"yes",
+            "whitePaper":"https://support.forsage.io/article/",
+            "website":"https://forsage.io/"
+    }
+ ]
