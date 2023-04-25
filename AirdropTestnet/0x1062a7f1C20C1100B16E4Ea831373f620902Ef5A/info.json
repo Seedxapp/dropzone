@@ -7,8 +7,16 @@
         "mintable":"yes",
         "burnable":"yes",
         "audit":"yes",
-        "whitePaper":"https://docs.seedx.app/",
-        "website":"https://seedx.app"
+        "whitePaper":"https://docs.seedx.app/",    
+        "website":"https://seedx.app",
+        "Airdrop":"20%",
+        "Presale":"10%",
+        "PrivateSale":"15%",
+        "DevTeam":"5%",
+        "Marketing":"30%",
+        "ReserveFund":"20%",    
+        "sub-description":"SeedX DeFi's goal is to give stablecoin and altcoin consumers with safe, yield-enhancing solutions that allow them to earn significant returns relative to their risk",
+        "description":  "Without a centralized order book, other AMM DEXs and DeFi protocols may only trade with the liquidityavailable inside their local pools. Pairing of new tokens in DEXs is mandatory to give liquidity against their token, however with SEEDx pairing, there is norequirement for liquidity against token. In addition to the Scratching Reward and staking, there are othermethods to acquire SEEDx tokens. There will be moremore additions soon!. Quickly exchanging tokens inside 0x liquidity Fusion pools is made possible using SEEDx's swap function,while more complex trading options, like as limitorders and Market Order, are made available via theDEX Interface. They enhance the user's shoppingexperience. In addition to the Scratching Reward andstaking, there are other methods to acquire SEEDxtokens. There will be more more additions soon!"
         
     }
 ]
