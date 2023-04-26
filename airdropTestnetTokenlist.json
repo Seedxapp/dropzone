@@ -22,6 +22,7 @@
         "mintable":"yes",
         "burnable":"no",
         "audit":"yes",
+        "sub-description":"The ForSage system is completely decentralised and belongs to our community, which means it is transparent, secure, and resistant to outside influences.",
         "whitePaper":"https://support.forsage.io/article/",
         "website":"https://forsage.io/"
     }
