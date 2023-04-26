@@ -8,7 +8,7 @@
         "mintable":"yes",
         "burnable":"yes",
         "audit":"yes",
-        "sub_description":"SeedX DeFi's goal is to give stablecoin and altcoin consumers with safe, yield-enhancing solutions that allow them to earn significant returns relative to their risk",
+        "sub_description":"SeedX DeFi's goal is to give stablecoin and altcoin consumers with safe, yield-enhancing solutions that allow them to earn significant returns relative to their risk.",
         "whitePaper":"https://docs.seedx.app/",
         "website":"https://seedx.app"
         
@@ -22,7 +22,7 @@
         "mintable":"yes",
         "burnable":"no",
         "audit":"yes",
-        "sub_description":"The ForSage system is completely decentralised and belongs to our community, which means it is transparent, secure, and resistant to outside influences.",
+        "sub_description":"The ForSage system is completely decentralised and belongs to our community, which means it is transparent, secure, and resistant to outside.",
         "whitePaper":"https://support.forsage.io/article/",
         "website":"https://forsage.io/"
     }
