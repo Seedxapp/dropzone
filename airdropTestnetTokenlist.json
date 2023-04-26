@@ -8,6 +8,7 @@
         "mintable":"yes",
         "burnable":"yes",
         "audit":"yes",
+        "sub-description":"SeedX DeFi's goal is to give stablecoin and altcoin consumers with safe, yield-enhancing solutions that allow them to earn significant returns relative to their risk",
         "whitePaper":"https://docs.seedx.app/",
         "website":"https://seedx.app"
         
